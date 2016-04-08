@@ -7,6 +7,6 @@
     <string name="action_settings">Settings</string>
     <string name="action_share">Share</string>
 
-    <string name="up">Up</string>
+    <string name="share_text">I\'ve just read an article with XYZ Reader</string>
 
 </resources>
